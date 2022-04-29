@@ -1,2 +1,1 @@
-# learn_c
-# learn_c
+# Learning C programming
